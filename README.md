@@ -4,10 +4,11 @@ This project is part of the AWS Beginners Challenge – Day 2
 
 ## ✅ What I Did
 
-- Stored Netflix dataset in S3
-- Analyzed it with Amazon QuickSight
-- Built visuals: donut charts, bar graphs, tables
-- Created a dynamic, all-in-one dashboard
+- Uploaded Netflix dataset to Amazon S3
+- Connected S3 data to Amazon QuickSight
+- Built visualizations (donut charts, bar graphs, tables)
+- Created a single dashboard combining all visuals
+- Answered analytical questions through visuals
 
 ## 📄 Project Files
 
