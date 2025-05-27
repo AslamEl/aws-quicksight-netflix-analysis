@@ -13,6 +13,9 @@ This project is part of the AWS Beginners Challenge – Day 2
 ## 📄 Project Files
 
 - [📘 View Project PDF](docs/AWS_QuickSight_Day2.pdf)
+- 🏗️ Architecture diagram
+- [Architecture](https://github.com/AslamEl/aws-quicksight-netflix-analysis/blob/main/docs/architecture-diagram.png?raw=true)
+- 📊 Dashboard
 - [Dashboard](https://github.com/AslamEl/aws-quicksight-netflix-analysis/blob/main/docs/quicksight-dashboard.png?raw=true)
 
 ## 🙌 Credits
